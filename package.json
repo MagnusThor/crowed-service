@@ -1,0 +1,25 @@
+{
+  "name": "crowed-service",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagnusThor/crowed-service.git"
+  },
+  "author": "Magnus Thor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MagnusThor/crowed-service/issues"
+  },
+  "homepage": "https://github.com/MagnusThor/crowed-service#readme",
+  "dependencies": {
+    "express": "^4.16.0",
+    "express-ws": "^3.0.0",
+    "reflect-metadata": "^0.1.10",
+    "thor-io.vnext": "^1.4.4"
+  }
+}
